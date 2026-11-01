@@ -3,7 +3,7 @@
 Architecture is an important part of building a maintainable, resilient, and scalable Flutter app. In this guide, you'll learn app architecture principles and best practices for building Flutter apps.
 
 
-## [What you'll learn](https://docs.flutter.dev/app-architecture#:~:text=What%20you%27ll%20learn,%23)
+## What you'll learn [LINK](https://docs.flutter.dev/app-architecture#:~:text=What%20you%27ll%20learn,%23)
 - Benefits of intentional architecture
 - Common architectural principles
 - The Flutter team's recommended app architecture
@@ -11,7 +11,7 @@ Architecture is an important part of building a maintainable, resilient, and sca
 - Dependency injection
 - Common design patterns for writing robust Flutter applications
 
-## [Benefits of intentional architecture](https://docs.flutter.dev/app-architecture#benefits-of-intentional-architecture:~:text=robust%20Flutter%20applications-,Benefits%20of%20intentional%20architecture,%23,-Good%20app%20architecture)
+## Benefits of intentional architecture [LINK](https://docs.flutter.dev/app-architecture#benefits-of-intentional-architecture:~:text=robust%20Flutter%20applications-,Benefits%20of%20intentional%20architecture,%23,-Good%20app%20architecture)
 Good app architecture provides a number of benefits to engineering teams and their end users.
 
 - Maintainability - App architecture makes it easier to modify, update, and fix issues over time.
